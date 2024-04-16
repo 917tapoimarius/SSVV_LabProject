@@ -147,7 +147,7 @@ public class TestAddStudent{
 //    public void testCase9(){
 //        String id = "20";
 //        String nume = "varga";
-//        int grupa = 937.7; // si aici aceeasi situatie ca la TC8, nush cum putem testa asta sincer, poate iti dai seama tu
+//        double grupa = 937.7; // si aici aceeasi situatie ca la TC8, nush cum putem testa asta sincer, poate iti dai seama tu
 //        String email = "a@b.com";
 //        Student varga = new Student(id,nume,grupa,email);
 //
